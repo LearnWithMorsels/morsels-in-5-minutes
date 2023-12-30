@@ -1,0 +1,17 @@
+{
+    "config": {
+        "languages": {
+            "default": "en"
+        }
+    },
+    "content": {
+        "en": {
+            "title": "Morsels in 5 minutes",
+            "_content": {
+                "title": "An introduction to Morsels",
+                "description": "Come in. Take your shoes off."
+            },
+            "_chapters": []
+        }
+    }
+}
